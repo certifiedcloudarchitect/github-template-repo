@@ -1,4 +1,5 @@
 # github-template-repo
+
 A repository for GitHub templates
 
-<img align="center" alt="github-template-repo" src="https://raw.githubusercontent.com/certifiedcloudarchitect/github-template-repo/main/tmpl-repo.png" width="400px"/>
+<p><a <img align="center" src="images/tmpl-repo.png" height="200" width="400" alt="example" /></a></p><br><br>
